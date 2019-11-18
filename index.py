@@ -1,6 +1,5 @@
 import tweepy
 import random
-import requests
 import threading
 
 //API
